@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kalam&weight=700&size=36&pause=1000&color=00BDCF&background=FF300000&center=true&vCenter=true&width=800&height=75&lines=Hi%2C+I'm+Mainm0e;Code%2C+coffee%2C+and+a+sprinkle+of+creativity+%E2%98%95%EF%B8%8F)](https://git.io/typing-svg)
 
