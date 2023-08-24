@@ -52,5 +52,5 @@
 <h2>Snake 🐍:</h2>
 
 <p align="center">
-  <img src="https://github.com/Mainm0e/Mainm0e/blob/output/github-contribution-grid-snake.gif" alt="Snake GIF">
+  <img src="https://github.com/Mainm0e/Mainm0e/blob/output/github-contribution-grid-snake.svg" alt="Snake GIF">
 </p>
