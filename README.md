@@ -20,6 +20,12 @@
   <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mainm0e&theme=vue&hide_border=true&include_all_commits=true&count_private=true&layout=compact" class="source-light">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mainm0e&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" class="source-dark">
+  <img alt="github-snake" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mainm0e&theme=vue&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+</picture>
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mainm0e&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
 </p>
@@ -35,11 +41,21 @@
 
 
 <h2 align="left">GitHub Stats 📊:</h2>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Mainm0e&theme=vue&hide_border=true&include_all_commits=true&count_private=true" class="source-light">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Mainm0e&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" class="source-dark">
+  <img alt="github-stats" src="https://github-readme-stats.vercel.app/api?username=Mainm0e&theme=vue&hide_border=true&include_all_commits=true&count_private=true">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Mainm0e&theme=vue&hide_border=true" class="source-light">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Mainm0e&theme=tokyonight&hide_border=true" class="source-dark">
+  <img alt="streak-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Mainm0e&theme=vue&hide_border=true">
+</picture>
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Mainm0e&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mainm0e&theme=tokyonight&hide_border=true" alt="Streak Stats">
-</p>
+</p> -->
 
 <h2>Socials 🌐:</h2>
 
