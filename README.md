@@ -50,8 +50,10 @@
 </p>
 
 <h2>Snake 🐍:</h2>
+<h2>Snake 🐍:</h2>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-   <img src="https://github.com/Mainm0e/Mainm0e/blob/output/github-contribution-grid-snake.gif" alt="Snake GIF">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mainm0e/Mainm0e/main/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mainm0e/Mainm0e/main/github-snake.svg" />
+  <img src="https://github.com/Mainm0e/Mainm0e/blob/main/output/github-contribution-grid-snake.gif" alt="Snake GIF">
 </picture>
+
