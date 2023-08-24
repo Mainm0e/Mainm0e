@@ -62,7 +62,7 @@
   </a>
 </p>
 
-<h2>Snake 🐍:</h2>
+
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Mainm0e/Mainm0e/raw/output/github-contribution-grid-snake.svg" class="source-light">
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Mainm0e/Mainm0e/raw/output/github-contribution-grid-snake-dark.svg" class="source-dark">
