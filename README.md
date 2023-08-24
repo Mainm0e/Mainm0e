@@ -51,6 +51,6 @@
 
 <h2>Snake 🐍:</h2>
 <!-- Dark mode -->
-<img src="https://raw.githubusercontent.com/Mainm0e/Mainm0e/main/github-snake-dark.svg" alt="Snake GIF (Dark Mode)">
+<img src="https://github.com/Mainm0e/Mainm0e/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake GIF (Dark Mode)">
 <!-- Light mode -->
-<img src="https://github.com/Mainm0e/Mainm0e/blob/output/github-contribution-grid-snake.svg" alt="Snake GIF (Light Mode)">
+<!-- <img src="https://github.com/Mainm0e/Mainm0e/blob/output/github-contribution-grid-snake.svg" alt="Snake GIF (Light Mode)"> -->
