@@ -51,8 +51,6 @@
 
 <h2>Snake 🐍:</h2>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-   <img src="https://github.com/Mainm0e/Mainm0e/blob/output/github-contribution-grid-snake.gif" alt="Snake GIF">
-</picture>
+<p align="center">
+  <img src="https://github.com/Mainm0e/Mainm0e/blob/output/github-contribution-grid-snake.gif" alt="Snake GIF">
+</p>
