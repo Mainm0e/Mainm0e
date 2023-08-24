@@ -26,9 +26,6 @@
   <img alt="github-snake" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mainm0e&theme=vue&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </picture>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mainm0e&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
-</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
