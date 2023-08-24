@@ -28,3 +28,4 @@
 [![](https://visitcount.itsvg.in/api?id=Mainm0e&icon=1&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![snake gif](https://github.com/Mainm0e/Mainm0e/blob/output/github-contribution-grid-snake.gif)
