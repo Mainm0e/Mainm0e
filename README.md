@@ -4,10 +4,9 @@
   </a>
 </p>
 
-
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Kalam&weight=700&size=36&pause=1000&color=00BDCF&background=FF300000&center=true&vCenter=true&width=800&height=75&lines=Hi%2C+I'm+Mainm0e;Code%2C+coffee%2C+and+a+sprinkle+of+creativity+%E2%98%95%EF%B8%8F" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Kalam&weight=700&size=36&pause=1000&color=00BDCF&background=FF300000&center=true&vCenter=true&width=800&height=75&lines=Hi%2C+I'm+Mainm0e;Currently+Looking+for+Job+Opportunities;Code%2C+coffee%2C+and+a+sprinkle+of+creativity+%E2%98%95%EF%B8%8F" alt="Typing SVG">
   </a>
 </p>
 
@@ -20,34 +19,22 @@
   <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
 </p>
 
+<h2 align="center">I'm currently looking for full-time opportunities!</h2>
+<p align="center">🔎 Open to roles in web development, backend development, and full-stack engineering.</p>
+
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mainm0e&theme=vue&hide_border=true&include_all_commits=true&count_private=true&layout=compact" class="source-light">
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mainm0e&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" class="source-dark">
   <img alt="github-snake" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mainm0e&theme=vue&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </picture>
 
+<h2>Socials 🌐:</h2>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Kalam&weight=700&size=26&duration=5555&pause=1000&color=4CFF6E&background=FF300000&center=true&vCenter=true&repeat=false&width=800&height=75&lines=About+Me+%F0%9F%A7%91%F0%9F%8F%BD" alt="Typing SVG">
+<p align="left">
+  <a href="https://www.linkedin.com/in/adithep-tamwisai-3b0a7525b/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <p align="center">👨‍💻 - I’m currently learning **Rust**</p>
 </p>
-
-
-
-
-<h2 align="left">GitHub Stats 📊:</h2>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Mainm0e&theme=vue&hide_border=true&include_all_commits=true&count_private=true" class="source-light">
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Mainm0e&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" class="source-dark">
-  <img alt="github-stats" src="https://github-readme-stats.vercel.app/api?username=Mainm0e&theme=vue&hide_border=true&include_all_commits=true&count_private=true">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Mainm0e&theme=vue&hide_border=true" class="source-light">
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Mainm0e&theme=tokyonight&hide_border=true" class="source-dark">
-  <img alt="streak-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Mainm0e&theme=vue&hide_border=true">
-</picture>
 
 <!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Mainm0e&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
